@@ -1,5 +1,11 @@
+# About me
 ### Hi there 👋
+My name is Natalia and I'm 18. I study Computer Science and Intelligent Systems at AGH University of Science and Technology. This is the beginning of my journey in the IT field. I am currently learning the basics of the C language and Python.
 
+Languages
++ **Polish** - Native language
++ **English** - Level C1 (Advanced)
++ **German** - Elementary Level
 <!--
 **nataliadybczak/nataliadybczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
