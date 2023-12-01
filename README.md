@@ -10,7 +10,7 @@ Languages
 
 Please visit my [page](https://nataliadybczak.github.io/)
 
-I find this [paper](https://github.com/nataliadybczak/Real-Time-Voice-Cloning) quite interesting. 
+I find this [paper](https://arxiv.org/pdf/1806.04558.pdf) quite interesting. Implementation of this paper can be found [there](https://github.com/nataliadybczak/Real-Time-Voice-Cloning).
 <!--
 **nataliadybczak/nataliadybczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
