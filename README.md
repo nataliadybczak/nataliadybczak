@@ -1,6 +1,6 @@
 # About me
 ### Hi there 👋
-My name is Natalia and I'm 18. I study Computer Science and Intelligent Systems at AGH University of Science and Technology. This is the beginning of my journey in the IT field. I am currently learning the basics of the C language and Python.
+My name is Natalia and I'm 19. I study Computer Science and Intelligent Systems at AGH University of Science and Technology. 
 
 Languages
 + **Polish** - Native language
@@ -8,9 +8,6 @@ Languages
 + **German** - Elementary Level
 
 
-Please visit my [page](https://nataliadybczak.github.io/)
-
-I find this [paper](https://arxiv.org/pdf/1806.04558.pdf) quite interesting. Implementation of this paper can be found [there](https://github.com/nataliadybczak/Real-Time-Voice-Cloning).
 <!--
 **nataliadybczak/nataliadybczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
